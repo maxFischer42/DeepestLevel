@@ -6,36 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main.unity
+    path: Assets/Scenes/LD/Main.unity
     guid: 3cee8ee971302cf4c9cac11b68620994
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/LD/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Level0.unity
+    path: Assets/Scenes/LD/Level0.unity
     guid: cb40f15c37bc43b4f88c03f868661877
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
+    path: Assets/Scenes/LD/Level1.unity
     guid: bb6a7e4aa9bd15348957e3fdc0051b7d
   - enabled: 1
-    path: Assets/Scenes/Level2.unity
+    path: Assets/Scenes/LD/Level2.unity
     guid: 655b353143283a047b508b97d21e5876
   - enabled: 1
-    path: Assets/Scenes/Level3.unity
+    path: Assets/Scenes/LD/Level3.unity
     guid: 27d21aa2f77ec5a4dbedb3efebcc2d37
   - enabled: 1
-    path: Assets/Scenes/Level4.unity
+    path: Assets/Scenes/LD/Level4.unity
     guid: 2a8f9839be2507040814eda7de15be06
   - enabled: 1
-    path: Assets/Scenes/Finale.unity
+    path: Assets/Scenes/LD/Finale.unity
     guid: 924d8e347f4b88c4985258d7757e37c3
   - enabled: 1
-    path: Assets/Scenes/Win.unity
+    path: Assets/Scenes/LD/Win.unity
     guid: 81941c23891f7b74783179733d6a2a37
   - enabled: 1
-    path: Assets/Scenes/Controls.unity
+    path: Assets/Scenes/LD/Controls.unity
     guid: abf7970d898a42a46b9dd299bd558113
   - enabled: 1
-    path: Assets/Scenes/HowTo.unity
+    path: Assets/Scenes/LD/HowTo.unity
     guid: ec53c8b93b5fe864ca8fe6e9ec2475b4
   m_configObjects: {}
